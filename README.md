@@ -28,8 +28,8 @@
 <br>
   
 <!-- STAT -->
-<a href="https://github.com/YU3727"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=YU3727&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="YU3727's github stats"/></a>
-<a href="https://github.com/YU3727"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YU3727&layout=compact&theme=dracula&hide_border=true"/></a> 
+<a href="https://github.com/kimtaehyeun"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=kimtaehyeun&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="kimtaehyeun's github stats"/></a>
+<a href="https://github.com/kimtaehyeun"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaehyeun&layout=compact&theme=dracula&hide_border=true"/></a> 
 
   
   
@@ -41,7 +41,7 @@
 
 
 <!--
-**YU3727/YU3727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kimtaehyeun/kimtaehyeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
