@@ -7,7 +7,6 @@
   제가 공부한 내용과 작업한 프로젝트를 모아 놓은 곳입니다. <br>
   느리더라도 계속해서 노력하고 성장하는 개발자가 되고 싶습니다.<br>
 ✨ 감사합니다. ✨<br>
-
   I'm a junior developer learned Java and Spring Framework. <br>
   This is a storage of what I studied and the projects I worked on. <br>
   Even if it's slow, I want to be a developer who continues to try and grow. <br>
