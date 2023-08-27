@@ -28,7 +28,7 @@
 
   
 #### 📱 **Contact**
-<a href="https://torpid-scooter-c31.notion.site/90903ed3b2294edf8c33df7637910696?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Dev_Notion-F06B66?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:rlaxogus2799@naver.com" target="_blank"><img src="https://img.shields.io/badge/rlaxogus2799@naver.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://torpid-scooter-c31.notion.site/90903ed3b2294edf8c33df7637910696?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white&style=flat-square"/></a> <a href="mailto:rlaxogus2799@naver.com" target="_blank"><img src="https://img.shields.io/badge/rlaxogus2799@naver.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br>
   
