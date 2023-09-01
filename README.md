@@ -33,7 +33,7 @@
 <br>
   
 <!-- STAT -->
-<a href="https://github.com/kimtaehyeun"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=kimtaehyeun&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="kimtaehyeun's github stats"/></a>
+<a href="https://github.com/kimtaehyeun"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=kimtaehyeun&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="kimtaehyeun's github stats"/></a>
 <a href="https://github.com/kimtaehyeun"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaehyeun&layout=compact&theme=dracula&hide_border=true"/></a> 
 
   
