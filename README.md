@@ -27,8 +27,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white&style=flat-square) ![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white&style=flat-square)
 
   
-#### 📱 **Contact**
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kimtaehyeun)](https://velog.io/@kimtaehyeun) 
+#### 📱 **Contact** 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaehyeun&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=kimtaehyeun)
+
+
 <a href="https://torpid-scooter-c31.notion.site/90903ed3b2294edf8c33df7637910696?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?logo=Notion&logoColor=white&style=flat-square"/></a> <a href="mailto:rlaxogus2799@naver.com" target="_blank"><img src="https://img.shields.io/badge/rlaxogus2799@naver.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br>
