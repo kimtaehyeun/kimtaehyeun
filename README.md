@@ -33,7 +33,7 @@
 
 #### 🌐 **Socials**
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaehyeun&tag=프로그래머스)](https://github.com/kimtaehyeun/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimtaehyeun&tag=프로그래머스)](https://velog.io/@kimtaehyeun)
   
 <!-- STAT -->
 
